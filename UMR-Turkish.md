@@ -1,5 +1,5 @@
 Türkçe için UMR Etiketleme Rehberi
-24 Ağustos 2025
+
 Bu rehber, Türkçe cümlelerin Universal/Uniform Meaning Representation (UMR) ile etiketlenmesi için kapsamlı bir şablon sunar.
 
 ## İçindekiler
@@ -343,3 +343,4 @@ UMR resmi kılavuz ve ilgili çalışmalar (aspect, modstr, coreference vb.): ac
 Türkçe AMR çalışması ve dil‑özgü ihtiyaçlar: polen.itu.edu.tr
 Spanish AMR vs UMR karşılaştırması (benzer dil‑özgü örnekler için): aclanthology.org
 ________________________________________
+
